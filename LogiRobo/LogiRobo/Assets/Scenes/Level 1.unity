@@ -316,10 +316,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 342721943}
     m_Modifications:
-    - target: {fileID: 7349879908039411842, guid: 2a9f82550ac864945955574475876650, type: 3}
-      propertyPath: coinSFX
-      value: 
-      objectReference: {fileID: 8300000, guid: a37916b8970d1b44daa4873987e26693, type: 3}
     - target: {fileID: 8413111714193837316, guid: 2a9f82550ac864945955574475876650, type: 3}
       propertyPath: m_Name
       value: Coin
@@ -20569,30 +20565,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1592476341321492058, guid: 3df93ffc7c32dc54184097c5c68c4b44, type: 3}
-      propertyPath: m_FontData.m_FontSize
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 1650058181584155670, guid: 3df93ffc7c32dc54184097c5c68c4b44, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 93.0896
-      objectReference: {fileID: 0}
-    - target: {fileID: 1650058181584155670, guid: 3df93ffc7c32dc54184097c5c68c4b44, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: -143.29
-      objectReference: {fileID: 0}
-    - target: {fileID: 1650058181584155670, guid: 3df93ffc7c32dc54184097c5c68c4b44, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1650058181584155670, guid: 3df93ffc7c32dc54184097c5c68c4b44, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 68.0965
-      objectReference: {fileID: 0}
-    - target: {fileID: 1650058181584155670, guid: 3df93ffc7c32dc54184097c5c68c4b44, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 71.25
-      objectReference: {fileID: 0}
     - target: {fileID: 1914455440832380786, guid: 3df93ffc7c32dc54184097c5c68c4b44, type: 3}
       propertyPath: m_SortingOrder
       value: 1
@@ -20657,14 +20629,6 @@ PrefabInstance:
       propertyPath: scoreDisplay
       value: 
       objectReference: {fileID: 2018532197}
-    - target: {fileID: 8284045268697720737, guid: 3df93ffc7c32dc54184097c5c68c4b44, type: 3}
-      propertyPath: m_FontData.m_MinSize
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 8284045268697720737, guid: 3df93ffc7c32dc54184097c5c68c4b44, type: 3}
-      propertyPath: m_FontData.m_FontSize
-      value: 50
-      objectReference: {fileID: 0}
     - target: {fileID: 9042681823454425297, guid: 3df93ffc7c32dc54184097c5c68c4b44, type: 3}
       propertyPath: m_IsActive
       value: 1
