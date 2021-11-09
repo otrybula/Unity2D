@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5448456272446104712, guid: d1f10d15319b91e428c3aacbb8f57615, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8931078670707929880, guid: d1f10d15319b91e428c3aacbb8f57615, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -1390,18 +1394,6 @@ PrefabInstance:
     - target: {fileID: 408965322041686253, guid: 37b797a0bf8d4414bb23c01841070e63, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: SceneLoader, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 408965322598549425, guid: 37b797a0bf8d4414bb23c01841070e63, type: 3}
-      propertyPath: m_UiScaleMode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 408965322598549425, guid: 37b797a0bf8d4414bb23c01841070e63, type: 3}
-      propertyPath: m_ReferenceResolution.x
-      value: 1440
-      objectReference: {fileID: 0}
-    - target: {fileID: 408965322598549425, guid: 37b797a0bf8d4414bb23c01841070e63, type: 3}
-      propertyPath: m_ReferenceResolution.y
-      value: 1080
       objectReference: {fileID: 0}
     - target: {fileID: 408965322598549427, guid: 37b797a0bf8d4414bb23c01841070e63, type: 3}
       propertyPath: m_Name

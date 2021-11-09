@@ -581,15 +581,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameSpeed: 1
+  autoP: 0
+  livesAddedPerLevel: 1
+  stuckHitTreshold: 10
+  pointsPerBlock: 100
+  pointMultiplierPerHit: 0.05
   scoreText: {fileID: 9011242414327484762}
   multiplierText: {fileID: 5561109586556026501}
   playerLivesText: {fileID: 8903317533924992069}
-  autoP: 0
   currentScore: 0
-  pointsPerBlock: 100
   currentPointMultiplier: 1
-  pointMultiplierPerHit: 0.05
   playerLives: 5
+  currentLevel: 1
+  stuckCounter: 0
 --- !u!1 &7126779637203654413
 GameObject:
   m_ObjectHideFlags: 0
@@ -805,7 +809,7 @@ MonoBehaviour:
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1440, y: 1080}
-  m_ScreenMatchMode: 2
+  m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
